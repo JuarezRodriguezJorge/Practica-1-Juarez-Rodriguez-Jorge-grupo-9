@@ -1,2 +1,2 @@
-Commit creativo 
-Se realizo un resumen sobre el lenguaje de programación C el cual es la base principal de todos los demas lenguajes de programació, se busco la información en google school, se selecciono el documento que me parecio mas apropiado, también explique porque escogi ese tema, y pues abarque todo lo fundamental sobre el lenguaje C, tomando en cuenta los más fundamental.
+Commit creativo: 
+Se realizo un resumen sobre el lenguaje de programación C el cual es la base principal de todos los demas lenguajes de programació, se busco la información en google school, se selecciono el documento que me parecio mas apropiado, también explique porque escogi ese tema, y pues abarque todo lo fundamental sobre el lenguaje C, tomando en cuenta los más fundamental, también se agrego una foto que me representaba. 
